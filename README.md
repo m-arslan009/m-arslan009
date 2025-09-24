@@ -22,17 +22,17 @@ I am Muhammad Arslan, a passionate Software Engineering student at FAST NUCES La
 
 ## GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadarslan009&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=m-arslan009&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadarslan009&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m-arslan009&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=muhammadarslan009&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=m-arslan009&theme=radical)
 
 ---
 
 ## GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=muhammadarslan009&theme=onedark)
+![Trophies](https://github-profile-trophy.vercel.app/?username=m-arslan009&theme=onedark)
 
 ---
 
