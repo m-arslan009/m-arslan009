@@ -1,16 +1,39 @@
-## Hi there 👋
+# About Me
 
-<!--
-**m-arslan009/m-arslan009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Muhammad Arslan, a passionate Software Engineering student at FAST NUCES Lahore with hands-on experience in front-end development and desktop applications. I am skilled in HTML, CSS, JavaScript, Java, ReactJS, C/C++, and .NET Framework with SQL. My commitment to building impactful user-focused software solutions is demonstrated through projects like a disaster relief system and an energy management app. I aim to create clean, efficient, and robust software.
 
-Here are some ideas to get you started:
+## Socials
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Arslan-blue?style=flat&logo=linkedin)](your-linkedin-url)
+
+---
+
+## Tech Stack
+
+| Skill Set 1        | Skill Set 2           | Skill Set 3            |
+|--------------------|-----------------------|------------------------|
+| C/C++              | .NET                  | JAVA                   |
+| MS SQL Server      | Tailwind CSS          | React Hook Form        |
+| CSS                | React                 | Firebase
+| HTML               | Supabase                                          
+
+
+---
+
+## GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadarslan009&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadarslan009&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=muhammadarslan009&theme=radical)
+
+---
+
+## GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=muhammadarslan009&theme=onedark)
+
+---
+
+⭐ *From Muhammad Arslan*
