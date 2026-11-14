@@ -106,8 +106,6 @@ Data structures and algorithms, parallel computing, distributed systems, network
 
 ---
 
----
-
 ## 📊 GitHub Activity
 
 <div align="center">
