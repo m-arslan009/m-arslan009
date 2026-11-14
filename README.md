@@ -106,13 +106,15 @@ Data structures and algorithms, parallel computing, distributed systems, network
 
 ---
 
+---
+
 ## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=m-arslan009&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=m-arslan009&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=m-arslan009&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-arslan009&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 
 <br/><br/>
 
