@@ -1,23 +1,35 @@
-# GitHub profile README kit
+# Light-mode GitHub profile README — installation
+
+## What this version does
+
+This package is a **static public portfolio**. It does not call GitHub's API, collect events, display GitHub statistics, fetch repository lists, or run a scheduled workflow. All local SVG assets are static.
+
+The README shows intentionally written **project summaries**, not public repository names, repository links, live counts, activity history, or analytics. It contains a LinkedIn link and an email address drawn from the supplied résumé; remove either if you do not wish to publish it.
 
 ## Install
-1. Back up your existing `README.md`.
-2. Copy this kit's `README.md`, `.github/`, `scripts/`, and `assets/` into your profile repository: `m-arslan009/m-arslan009`.
-3. Commit and push to the repository's default branch (usually `main`).
-4. In GitHub, open **Settings → Actions → General → Workflow permissions** and allow **Read and write permissions**.
-5. Open **Actions → Update profile dashboard → Run workflow**.
-6. When it succeeds, the workflow commits three SVG cards into `assets/`.
 
-## Token requirements
-No personal access token is required. The workflow uses the repository-scoped `GITHUB_TOKEN` automatically provided by GitHub Actions. It only reads public profile/repository/event data and writes the generated SVGs back to this repository.
+1. Open the **profile repository** named `m-arslan009/m-arslan009` on GitHub (the repository name must match the username).
+2. Back up your existing `README.md`.
+3. Replace the root `README.md` with this package's version.
+4. Upload the complete `assets/` directory alongside `README.md`, preserving names and capitalization.
+5. **Remove legacy files** from the profile repository if present:
+   - `assets/dashboard.svg`
+   - `assets/languages.svg`
+   - `assets/activity.svg`
+   - `scripts/generate_profile.py`
+   - `.github/workflows/update-profile-dashboard.yml`
+6. Commit and push your changes to the default branch. Inspect the public profile page while signed out.
 
-## Data definitions
-- Dashboard: public repository count, followers, stars and forks.
-- Language footprint: count of non-fork public repositories whose primary language GitHub reports. This is not a byte-weighted language breakdown.
-- Recent activity: event types returned by GitHub's public Events API in the last 30 days. This is not a complete contribution count and may omit activity.
+**Note:** If the old generator/workflow is not removed, it may continue to update or recreate analytic SVG files even when they are no longer referenced by the README. Delete the files from the *remote repository*, not just from your local copy. You can delete the empty `scripts/` or `.github/workflows/` directories too, if they contain no other files.
 
-## Notes
-- Scheduled refresh: daily at 02:17 UTC.
-- Manual refresh: Actions → Update profile dashboard → Run workflow.
-- If the workflow cannot push, check that workflow permissions are set to Read and write.
-- If your default branch is not `main`, the workflow still runs on the branch where you add it; ensure you commit the files to your actual default branch.
+## Privacy boundaries
+
+- This only controls what the **README** chooses to show. GitHub controls the built-in contribution graph, profile activity, repository visibility, and public profile metadata.
+- To hide repositories themselves, change their visibility in GitHub settings where applicable. Making a repository private can affect access, forks, Pages, and collaborators.
+- To adjust contribution-related settings, review your GitHub profile settings. The README cannot switch off GitHub's built-in contribution graph.
+- The LinkedIn/email badges load icons from `shields.io`. The two portfolio illustrations are local, static SVG files and do not make network requests.
+- No GitHub Actions permissions or personal access tokens are required.
+
+## Customization
+
+Edit the text in `README.md` and the static SVGs in `assets/` as desired. The layout is white/light by design, and visuals do not rely on OS-level dark-mode adaptation.

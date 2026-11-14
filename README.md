@@ -1,111 +1,106 @@
 <div align="center">
 
-# Muhammad Arslan
+<img src="./assets/hero.svg" alt="Muhammad Arslan — Backend, Full-Stack and AI-Integrated Software Engineer" width="100%" />
 
-### AI-First Software Engineer · Backend & Full-Stack Developer
+<br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=680&lines=Engineering+reliable+software+systems;Exploring+backend+architecture+and+databases;Building+full-stack+and+AI-powered+applications" alt="Animated introduction" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1768C4?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-arslan009/)
+[![Email](https://img.shields.io/badge/Email-Say%20hello-1768C4?style=flat-square&logo=gmail&logoColor=white)](mailto:iqbalarslan009@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/m-arslan009/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/m-arslan009)
+**Build with intention. Engineer for reliability. Keep learning.**
 
 </div>
+
+### `01` / About me
+
+I'm **Muhammad Arslan**, a Software Engineering undergraduate at **FAST-NUCES, Lahore** (expected 2027). I build full-stack applications with a strong interest in **backend architecture, databases, secure APIs, and AI-integrated systems**.
+
+I care about what happens beyond the interface: how services communicate, how data stays consistent, how users stay secure, and how complex workflows become simpler and more dependable.
+
+<img src="./assets/engineering-map.svg" alt="My focus areas: frontend and product engineering, backend and data systems, and agentic AI." width="100%" />
+
+### `02` / Engineering toolkit
+
+| Domain | Technologies & practices |
+| :-- | :-- |
+| **Backend & APIs** | Python, FastAPI, Java, Spring Boot, Node.js, Express, REST APIs |
+| **Frontend** | React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS |
+| **Data & storage** | PostgreSQL / PostGIS, MongoDB, SQL Server, Firebase |
+| **AI & automation** | LangGraph, Ollama, LLM tool-calling, prompt engineering |
+| **Delivery & quality** | Git, GitHub, Docker Compose, JWT, automated testing, Playwright |
+
+### `03` / Things I've built
+
+> Selected project highlights from my engineering experience. These are **portfolio summaries**, not a live listing of repositories or contribution activity.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**CAMPUSGO**  
+*Student ride coordination platform*
+
+Built a full-stack solution with ride matching, route support, identity verification, and AI-assisted workflows. Worked with **React, TypeScript, FastAPI, PostgreSQL/PostGIS, LangGraph, and Ollama**.
+
+</td>
+<td width="50%" valign="top">
+
+**EVENTER**  
+*Event management platform*
+
+Developed a MERN-based application for creating and managing events with **JWT authentication, role-based access control, MongoDB Atlas, and notification features**.
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**BOOK LINKER**  
+*Peer-to-peer book exchange*
+
+Built a book lending and donation experience using **React, Spring Boot, and Firebase**, including role-aware workflows.
+
+</td>
+<td valign="top">
+
+**STUDENT MANAGEMENT SYSTEM**  
+*Desktop administration software*
+
+Developed a desktop system for attendance, academic records, and role-based access using **.NET and C++**.
+
+</td>
+</tr>
+</table>
+
+### `04` / Experience & recognition
+
+**AI-Assisted Web & Agentic AI Intern** · Arbisoft · Jul–Sep 2026  
+Worked on full-stack development, API design, authentication, testing, and AI-assisted workflows; developed and demonstrated CampusGo during the project phase.
+
+**Frontend Developer Intern** · Nexum · Jul–Aug 2025  
+Built React applications using component-based architecture, hooks, and external API integrations.
+
+**3rd Place — Web Hackathon** · University of Central Punjab  
+Recognized for a collaborative web solution developed under time constraints.
+
+### `05` / Principles
+
+```text
+01  Understand the problem before choosing the tools.
+02  Make APIs predictable and data boundaries explicit.
+03  Treat testing, security and maintainability as features.
+04  Use AI where it adds real value and keep humans in control.
+```
 
 ---
 
-## About
-
-I'm a Software Engineering student at **FAST-NUCES, Lahore**, interested in building software that is useful, maintainable, and thoughtfully engineered.
-
-I enjoy understanding what happens behind the interface: how APIs communicate, how databases preserve consistency, how systems handle concurrent work, and how AI capabilities can make applications more useful.
-
-My current direction is **backend engineering**, supported by full-stack experience and a growing interest in AI-integrated systems.
-
-> I want to understand the engineering principles behind the tools I use — not just learn the tools themselves.
-
-## Engineering dashboard
-
 <div align="center">
 
-<img src="./assets/dashboard.svg" alt="Live GitHub engineering dashboard" width="100%" />
+**Have a problem worth engineering?**  
+I'm open to thoughtful conversations, feedback, and collaboration.
 
-<img src="./assets/languages.svg" alt="Languages used across public repositories" width="100%" />
+[**Connect on LinkedIn**](https://www.linkedin.com/in/m-arslan009/) · [**Send an email**](mailto:iqbalarslan009@gmail.com)
 
-<img src="./assets/activity.svg" alt="Recent public GitHub activity" width="100%" />
-
-</div>
-
-<sub>These cards are generated from GitHub's public REST API by this repository's own GitHub Actions workflow. They are refreshed daily and can also be refreshed manually. Activity reflects public events, not every private or unreported contribution.</sub>
-
-## Current engineering focus
-
-| Area | What I'm exploring |
-|---|---|
-| Backend engineering | Java, Spring Boot, REST APIs, authentication, authorization, service design |
-| Database engineering | PostgreSQL, schema design, transactions, indexing, concurrency, consistency |
-| Full-stack development | React, Next.js, JavaScript, Node.js, NestJS |
-| AI-integrated software | LLMs, AI agents, tool calling, memory, intelligent workflows |
-| Systems foundations | Data structures, algorithms, parallel and distributed computing |
-
-## Selected projects
-
-### Atlas OMS — Order Management System
-A backend-focused order management project exploring inventory management, relational data integrity, and reliable order processing.
-
-`Java` `Spring Boot` `PostgreSQL` `Docker`
-
-### CampusGO — University Ride-Sharing
-A university ride-sharing application connecting students who need rides with students offering them, with map-based route support and AI-powered functionality.
-
-`React` `FastAPI` `MapLibre` `Nominatim` `OSRM`
-
-### LifeTrack Pro — Project & Task Management
-A Jira-inspired application for organizing projects, managing tasks, and tracking team progress.
-
-`React` `Django` `SQLite` · [Repository](https://github.com/m-arslan009/Life_Track_Pro)
-
-## Technology toolbox
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,js,cpp,react,nextjs,html,css,tailwind,spring,nodejs,nestjs,django,fastapi,postgres,mysql,mongodb,sqlite,docker,git,github,vscode,postman&perline=8" alt="Technology icons" />
-
-</div>
-
-## Beyond frameworks
-
-<details>
-<summary><b>Software design & architecture</b></summary>
-<br/>
-Object-oriented design, SOLID principles, design patterns, clean code, requirements engineering, and maintainable application structure.
-</details>
-
-<details>
-<summary><b>Data & concurrency</b></summary>
-<br/>
-Relational modeling, SQL, transactions, isolation, concurrency control, indexing, and data consistency.
-</details>
-
-<details>
-<summary><b>AI and intelligent applications</b></summary>
-<br/>
-LLM-powered features, agents, tool calling, memory, retrieval, and multi-step workflows.
-</details>
-
-<details>
-<summary><b>Computer science foundations</b></summary>
-<br/>
-Data structures and algorithms, networking, parallel computing, and distributed systems.
-</details>
-
-## Connect
-
-I'm interested in connecting with engineers and developers, exchanging ideas, and collaborating on meaningful software.
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/m-arslan009/)
-
-**Understand. Engineer. Improve.**
+<sub>Designed as a static, light-mode portfolio. No automated repository counts, activity feeds, language analytics, or tracking scripts.</sub>
 
 </div>

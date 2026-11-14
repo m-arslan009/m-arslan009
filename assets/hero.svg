@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 460" width="1200" height="460" role="img" aria-labelledby="title desc">
+<title id="title">Muhammad Arslan — software engineering portfolio</title><desc id="desc">Light futuristic header featuring engineering focus areas and abstract orbit diagram; no GitHub statistics or activity.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFFFFF"/><stop offset="1" stop-color="#F3F8FF"/></linearGradient>
+<linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0E77F6"/><stop offset="1" stop-color="#6C59EB"/></linearGradient>
+<pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#DCE9F8" stroke-width=".8"/></pattern>
+<filter id="glow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="12"/></filter>
+</defs>
+<rect width="1200" height="460" rx="24" fill="url(#bg)"/><rect width="1200" height="460" rx="24" fill="url(#grid)" opacity=".65"/>
+<rect x="1" y="1" width="1198" height="458" rx="23" fill="none" stroke="#DAE6F3" stroke-width="2"/>
+<path d="M0 392Q350 352 570 439" stroke="#C9DCF6" stroke-width="2" fill="none"/><path d="M0 409Q350 369 570 456" stroke="#E1EBF9" stroke-width="2" fill="none"/>
+<rect x="50" y="46" width="192" height="32" rx="16" fill="#E8F2FF" stroke="#BED7FF"/>
+<circle cx="68" cy="62" r="5" fill="#1677F2"/><text x="82" y="67" font-size="12" font-family="Arial,sans-serif" font-weight="700" fill="#185AA4" letter-spacing="1.3">ENGINEER / BUILDER</text>
+<text x="48" y="156" font-size="59" font-family="Arial,Helvetica,sans-serif" font-weight="800" letter-spacing="-2.7" fill="#142541">Muhammad</text>
+<text x="48" y="220" font-size="70" font-family="Arial,Helvetica,sans-serif" font-weight="800" letter-spacing="-3" fill="url(#blue)">Arslan<span> </span></text>
+<rect x="49" y="242" width="62" height="5" rx="2.5" fill="#147BF4"/>
+<text x="49" y="285" font-size="22" font-family="Arial,sans-serif" font-weight="600" fill="#254360">Backend • Full-Stack • AI-Integrated Systems</text>
+<text x="49" y="325" font-size="16" font-family="Arial,sans-serif" fill="#61758D">I design dependable APIs, thoughtful products and intelligent workflows.</text>
+<rect x="48" y="356" width="195" height="39" rx="19.5" fill="#EAF3FF" stroke="#B9D7FF"/><text x="70" y="381" font-size="13" font-family="Arial,sans-serif" font-weight="700" fill="#1768CE">SOFTWARE ENGINEERING</text>
+<rect x="255" y="356" width="134" height="39" rx="19.5" fill="#FFFFFF" stroke="#CFDBEB"/><text x="280" y="381" font-size="13" font-family="Arial,sans-serif" font-weight="700" fill="#456078">FAST-NUCES</text>
+<g transform="translate(925 228)">
+<circle r="168" fill="#A9D1FF" opacity=".35" filter="url(#glow)"/><circle r="153" stroke="#C6DAF4" stroke-width="1.6" fill="none"/><circle r="119" stroke="#A9C9EF" stroke-width="1.6" fill="none" stroke-dasharray="5 8"/><circle r="79" stroke="#B3CFF1" stroke-width="1.5" fill="none"/>
+<circle r="64" fill="#FFFFFF" stroke="#B8D8FF" stroke-width="2"/><circle r="49" fill="#EAF3FF"/>
+<path d="M-23 -7l-13 13 13 13M23 -7l13 13-13 13M9 -18L-6 31" stroke="#156DDC" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="-114" cy="-33" r="10" fill="#147BF4"/><circle cx="107" cy="-50" r="8" fill="#7168E9"/><circle cx="29" cy="115" r="9" fill="#2D9AC7"/>
+<rect x="-154" y="-140" width="106" height="31" rx="15" fill="#FFFFFF" stroke="#B8D8FC"/><text x="-133" y="-120" fill="#2463B0" font-size="12" font-weight="700" font-family="Arial,sans-serif">BUILD / 01</text>
+<rect x="85" y="111" width="113" height="31" rx="15" fill="#FFFFFF" stroke="#B8D8FC"/><text x="104" y="131" fill="#2463B0" font-size="12" font-weight="700" font-family="Arial,sans-serif">DESIGN / 02</text>
+<path d="M-154-124L-134-90M93 127L73 100" fill="none" stroke="#A9C7E9" stroke-width="1.5"/>
+</g>
+<text x="1146" y="427" text-anchor="end" fill="#849AB3" font-size="11" font-family="Arial,sans-serif" letter-spacing="2">PERSONAL PORTFOLIO • 2026</text>
+</svg>
