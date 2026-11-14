@@ -45,7 +45,7 @@ Currently, I'm focused on:
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,redux" />
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=spring,nodejs,nestjs,django,fastapi,dotnet" />
+<img src="https://skillicons.dev/icons?i=spring,nodejs,django,fastapi,dotnet" />
 
 ### Databases & Infrastructure
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,docker,git,github" />
