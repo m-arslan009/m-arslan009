@@ -91,8 +91,6 @@ I'm always interested in connecting with developers, engineers, and people who e
 
 ## 📈 GitHub Statistics
 
-## 📈 GitHub Statistics
-
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=m-arslan009&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=m-arslan009&layout=compact&theme=tokyonight&hide_border=true" height="180" />
