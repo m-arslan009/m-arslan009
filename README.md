@@ -84,7 +84,7 @@ Some areas I'm continuously exploring:
 
 I'm always interested in connecting with developers, engineers, and people who enjoy discussing technology, exchanging ideas, and building meaningful products.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/m-arslan009)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/m-arslan009/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/m-arslan009)
 
 ---
