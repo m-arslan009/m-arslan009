@@ -1,149 +1,111 @@
-# 👋 Hey, I'm Muhammad Arslan
-
 <div align="center">
 
-### AI-First Software Engineer | Backend & Full-Stack Developer
+# Muhammad Arslan
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+software+that+solves+real+problems;Exploring+Backend+Engineering+%26+System+Design;Turning+ideas+into+working+applications;Exploring+AI-powered+software+systems" alt="Typing SVG" />
+### AI-First Software Engineer · Backend & Full-Stack Developer
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=680&lines=Engineering+reliable+software+systems;Exploring+backend+architecture+and+databases;Building+full-stack+and+AI-powered+applications" alt="Animated introduction" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/m-arslan009/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/m-arslan009)
-![Profile Views](https://komarev.com/ghpvc/?username=m-arslan009&style=for-the-badge&color=blueviolet)
 
 </div>
 
 ---
 
-## 🧑‍💻 A Little About Me
+## About
 
-I'm a Software Engineering student at **FAST-NUCES, Lahore**, interested in building software that goes beyond simply working — software that is maintainable, reliable, and thoughtfully engineered.
+I'm a Software Engineering student at **FAST-NUCES, Lahore**, interested in building software that is useful, maintainable, and thoughtfully engineered.
 
-I enjoy understanding what's happening behind the scenes: how APIs communicate, how databases maintain consistency, how systems handle concurrency, and how intelligent capabilities can enhance traditional applications.
+I enjoy understanding what happens behind the interface: how APIs communicate, how databases preserve consistency, how systems handle concurrent work, and how AI capabilities can make applications more useful.
 
-Currently, I'm focused on:
+My current direction is **backend engineering**, supported by full-stack experience and a growing interest in AI-integrated systems.
 
-- ⚙️ Strengthening my **Java & Backend Engineering** foundations.
-- 🗄️ Exploring database internals, transactions, and concurrency.
-- 🏗️ Learning software architecture and system design.
-- 🤖 Experimenting with AI agents, LLMs, and intelligent workflows.
-- 🌐 Building full-stack applications and practical software solutions.
+> I want to understand the engineering principles behind the tools I use — not just learn the tools themselves.
 
-> I don't just want to learn frameworks. I want to understand the engineering principles behind them.
-
----
-
-## ⚡ My Tech Arsenal
+## Engineering dashboard
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=java,python,js,cpp,c,cs" />
+<img src="./assets/dashboard.svg" alt="Live GitHub engineering dashboard" width="100%" />
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,redux" />
+<img src="./assets/languages.svg" alt="Languages used across public repositories" width="100%" />
 
-### Backend
-<img src="https://skillicons.dev/icons?i=spring,nodejs,django,fastapi,dotnet" />
-
-### Databases & Infrastructure
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,docker,git,github" />
-
-### Tools
-<img src="https://skillicons.dev/icons?i=vscode,idea,postman,linux" />
+<img src="./assets/activity.svg" alt="Recent public GitHub activity" width="100%" />
 
 </div>
 
----
+<sub>These cards are generated from GitHub's public REST API by this repository's own GitHub Actions workflow. They are refreshed daily and can also be refreshed manually. Activity reflects public events, not every private or unreported contribution.</sub>
 
-## 🚀 Things I've Built
+## Current engineering focus
 
-### 🚗 CampusGO
-A university ride-sharing platform connecting students who need rides with students offering them.
+| Area | What I'm exploring |
+|---|---|
+| Backend engineering | Java, Spring Boot, REST APIs, authentication, authorization, service design |
+| Database engineering | PostgreSQL, schema design, transactions, indexing, concurrency, consistency |
+| Full-stack development | React, Next.js, JavaScript, Node.js, NestJS |
+| AI-integrated software | LLMs, AI agents, tool calling, memory, intelligent workflows |
+| Systems foundations | Data structures, algorithms, parallel and distributed computing |
 
-**Highlights:** Ride matching, map integration, route visualization, AI-powered functionality.
+## Selected projects
 
-`React` `FastAPI` `MapLibre` `OSRM`
-
-### 📊 LifeTrack Pro
-A Jira-inspired project and task management application for organizing projects, assigning tasks, and tracking team progress.
-
-`React` `Django` `SQLite`
-
-### 📦 Atlas OMS
-An Order Management System focused on backend engineering, inventory management, database integrity, and reliable order processing.
+### Atlas OMS — Order Management System
+A backend-focused order management project exploring inventory management, relational data integrity, and reliable order processing.
 
 `Java` `Spring Boot` `PostgreSQL` `Docker`
 
----
+### CampusGO — University Ride-Sharing
+A university ride-sharing application connecting students who need rides with students offering them, with map-based route support and AI-powered functionality.
 
-## 🧠 My Engineering Interests
+`React` `FastAPI` `MapLibre` `Nominatim` `OSRM`
 
-<details>
-<summary><b>⚙️ Backend & Software Architecture</b></summary>
-<br/>
-REST APIs, authentication, authorization, clean architecture, SOLID principles, design patterns, and scalable backend systems.
-</details>
+### LifeTrack Pro — Project & Task Management
+A Jira-inspired application for organizing projects, managing tasks, and tracking team progress.
 
-<details>
-<summary><b>🗄️ Database Engineering</b></summary>
-<br/>
-Relational database design, SQL optimization, indexing, transactions, concurrency control, isolation levels, and data consistency.
-</details>
+`React` `Django` `SQLite` · [Repository](https://github.com/m-arslan009/Life_Track_Pro)
 
-<details>
-<summary><b>🤖 Artificial Intelligence</b></summary>
-<br/>
-LLMs, AI agents, tool calling, memory systems, retrieval, and integrating intelligent workflows into software applications.
-</details>
-
-<details>
-<summary><b>🌐 Systems & Computing</b></summary>
-<br/>
-Data structures and algorithms, parallel computing, distributed systems, networking, and system design.
-</details>
-
----
-
-## 📊 GitHub Activity
+## Technology toolbox
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=m-arslan009&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-arslan009&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=m-arslan009&theme=tokyo-night&hide_border=true" width="100%" />
+<img src="https://skillicons.dev/icons?i=java,python,js,cpp,react,nextjs,html,css,tailwind,spring,nodejs,nestjs,django,fastapi,postgres,mysql,mongodb,sqlite,docker,git,github,vscode,postman&perline=8" alt="Technology icons" />
 
 </div>
 
----
+## Beyond frameworks
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=m-arslan009&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" />
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-I'm always open to connecting with developers, exchanging technical ideas, exploring opportunities, and collaborating on meaningful software projects.
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/m-arslan009/)
-
+<details>
+<summary><b>Software design & architecture</b></summary>
 <br/>
+Object-oriented design, SOLID principles, design patterns, clean code, requirements engineering, and maintainable application structure.
+</details>
 
-**"Great software isn't just written. It's engineered."**
+<details>
+<summary><b>Data & concurrency</b></summary>
+<br/>
+Relational modeling, SQL, transactions, isolation, concurrency control, indexing, and data consistency.
+</details>
 
-⭐ Thanks for stopping by!
+<details>
+<summary><b>AI and intelligent applications</b></summary>
+<br/>
+LLM-powered features, agents, tool calling, memory, retrieval, and multi-step workflows.
+</details>
+
+<details>
+<summary><b>Computer science foundations</b></summary>
+<br/>
+Data structures and algorithms, networking, parallel computing, and distributed systems.
+</details>
+
+## Connect
+
+I'm interested in connecting with engineers and developers, exchanging ideas, and collaborating on meaningful software.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/m-arslan009/)
+
+**Understand. Engineer. Improve.**
 
 </div>
