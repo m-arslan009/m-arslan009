@@ -1,1 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="210" viewBox="0 0 1000 210"><rect width="1000" height="210" rx="18" fill="#0d1117" stroke="#30363d"/><text x="30" y="48" fill="#e6edf3" font-family="Arial" font-size="22" font-weight="bold">ENGINEERING DASHBOARD</text><text x="30" y="83" fill="#8b949e" font-family="Arial" font-size="14">Run the GitHub Actions workflow to generate your live public profile metrics.</text><text x="30" y="135" fill="#58a6ff" font-family="Arial" font-size="15">Public repositories · Followers · Stars · Forks</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="210" viewBox="0 0 1000 210" role="img">
+<rect width="1000" height="210" rx="18" fill="#0d1117"/>
+<rect x="1" y="1" width="998" height="208" rx="17" fill="none" stroke="#30363d"/>
+<text x="30" y="40" fill="#e6edf3" font-family="Segoe UI,Arial,sans-serif" font-size="21" font-weight="700">ENGINEERING DASHBOARD</text>
+<text x="30" y="65" fill="#8b949e" font-family="Segoe UI,Arial,sans-serif" font-size="12">@m-arslan009  •  PUBLIC REPOSITORY SNAPSHOT  •  UPDATED 2026-11-14 UTC</text>
+<rect x="30" y="90" width="220" height="90" rx="12" fill="#161b22" stroke="#30363d"/>
+<rect x="30" y="90" width="4" height="90" rx="2" fill="#58a6ff"/>
+<text x="48" y="119" fill="#8b949e" font-family="Segoe UI,Arial,sans-serif" font-size="12">PUBLIC REPOSITORIES</text>
+<text x="48" y="157" fill="#e6edf3" font-family="Segoe UI,Arial,sans-serif" font-size="29" font-weight="700">50</text>
+<rect x="270" y="90" width="220" height="90" rx="12" fill="#161b22" stroke="#30363d"/>
+<rect x="270" y="90" width="4" height="90" rx="2" fill="#bc8cff"/>
+<text x="288" y="119" fill="#8b949e" font-family="Segoe UI,Arial,sans-serif" font-size="12">FOLLOWERS</text>
+<text x="288" y="157" fill="#e6edf3" font-family="Segoe UI,Arial,sans-serif" font-size="29" font-weight="700">14</text>
+<rect x="510" y="90" width="220" height="90" rx="12" fill="#161b22" stroke="#30363d"/>
+<rect x="510" y="90" width="4" height="90" rx="2" fill="#3fb950"/>
+<text x="528" y="119" fill="#8b949e" font-family="Segoe UI,Arial,sans-serif" font-size="12">STARS RECEIVED</text>
+<text x="528" y="157" fill="#e6edf3" font-family="Segoe UI,Arial,sans-serif" font-size="29" font-weight="700">0</text>
+<rect x="750" y="90" width="220" height="90" rx="12" fill="#161b22" stroke="#30363d"/>
+<rect x="750" y="90" width="4" height="90" rx="2" fill="#d29922"/>
+<text x="768" y="119" fill="#8b949e" font-family="Segoe UI,Arial,sans-serif" font-size="12">FORKS RECEIVED</text>
+<text x="768" y="157" fill="#e6edf3" font-family="Segoe UI,Arial,sans-serif" font-size="29" font-weight="700">0</text>
+</svg>

@@ -1,1 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="130" viewBox="0 0 1000 130"><rect width="1000" height="130" rx="18" fill="#0d1117" stroke="#30363d"/><text x="30" y="48" fill="#e6edf3" font-family="Arial" font-size="22" font-weight="bold">RECENT PUBLIC ACTIVITY</text><text x="30" y="82" fill="#8b949e" font-family="Arial" font-size="14">Public event summary will appear after the first workflow run.</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="250" viewBox="0 0 1000 250" role="img">
+<rect width="1000" height="250" rx="18" fill="#0d1117"/>
+<rect x="1" y="1" width="998" height="248" rx="17" fill="none" stroke="#30363d"/>
+<text x="30" y="40" fill="#e6edf3" font-family="Segoe UI,Arial,sans-serif" font-size="21" font-weight="700">RECENT PUBLIC ACTIVITY</text>
+<text x="30" y="65" fill="#8b949e" font-family="Segoe UI,Arial,sans-serif" font-size="12">Public GitHub events observed in the last 30 days (GitHub Events API)</text>
+<text x="30" y="113" fill="#e6edf3" font-family="Segoe UI,Arial,sans-serif" font-size="13">Push</text>
+<rect x="260" y="100" width="560" height="13" rx="6" fill="#161b22"/>
+<rect x="260" y="100" width="560.0" height="13" rx="6" fill="#58a6ff"/>
+<text x="850" y="112" fill="#8b949e" font-family="Segoe UI,Arial,sans-serif" font-size="12">7</text>
+<text x="30" y="141" fill="#e6edf3" font-family="Segoe UI,Arial,sans-serif" font-size="13">Create</text>
+<rect x="260" y="128" width="560" height="13" rx="6" fill="#161b22"/>
+<rect x="260" y="128" width="160.0" height="13" rx="6" fill="#58a6ff"/>
+<text x="850" y="140" fill="#8b949e" font-family="Segoe UI,Arial,sans-serif" font-size="12">2</text>
+<text x="30" y="169" fill="#e6edf3" font-family="Segoe UI,Arial,sans-serif" font-size="13">PullRequest</text>
+<rect x="260" y="156" width="560" height="13" rx="6" fill="#161b22"/>
+<rect x="260" y="156" width="160.0" height="13" rx="6" fill="#58a6ff"/>
+<text x="850" y="168" fill="#8b949e" font-family="Segoe UI,Arial,sans-serif" font-size="12">2</text>
+<text x="30" y="197" fill="#e6edf3" font-family="Segoe UI,Arial,sans-serif" font-size="13">Member</text>
+<rect x="260" y="184" width="560" height="13" rx="6" fill="#161b22"/>
+<rect x="260" y="184" width="160.0" height="13" rx="6" fill="#58a6ff"/>
+<text x="850" y="196" fill="#8b949e" font-family="Segoe UI,Arial,sans-serif" font-size="12">2</text>
+</svg>
