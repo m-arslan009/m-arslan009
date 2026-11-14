@@ -1,35 +1,21 @@
-# Light-mode GitHub profile README — installation
+# Hybrid futuristic GitHub profile — setup
 
-## What this version does
-
-This package is a **static public portfolio**. It does not call GitHub's API, collect events, display GitHub statistics, fetch repository lists, or run a scheduled workflow. All local SVG assets are static.
-
-The README shows intentionally written **project summaries**, not public repository names, repository links, live counts, activity history, or analytics. It contains a LinkedIn link and an email address drawn from the supplied résumé; remove either if you do not wish to publish it.
+The package contains `README.md` and four **static, local SVG** files in `assets/`. It requires **no Actions workflows, analytics jobs, API tokens, or external image generators**. The diagrams are visual summaries; the real content remains readable/selectable Markdown.
 
 ## Install
 
-1. Open the **profile repository** named `m-arslan009/m-arslan009` on GitHub (the repository name must match the username).
-2. Back up your existing `README.md`.
-3. Replace the root `README.md` with this package's version.
-4. Upload the complete `assets/` directory alongside `README.md`, preserving names and capitalization.
-5. **Remove legacy files** from the profile repository if present:
-   - `assets/dashboard.svg`
-   - `assets/languages.svg`
-   - `assets/activity.svg`
-   - `scripts/generate_profile.py`
-   - `.github/workflows/update-profile-dashboard.yml`
-6. Commit and push your changes to the default branch. Inspect the public profile page while signed out.
+1. Back up the current profile repository `m-arslan009/m-arslan009`.
+2. Replace its root `README.md` with the one in this kit.
+3. Copy the entire `assets/` folder, including `hero.svg`, `engineering-map.svg`, `campusgo-blueprint.svg` and `career-timeline.svg`.
+4. Remove files from the OLD kit if present: `assets/dashboard.svg`, `assets/languages.svg`, `assets/activity.svg`, `scripts/generate_profile.py`, `.github/workflows/update-profile-dashboard.yml`. Also remove any outdated README embeds for those files. **Delete these from the GitHub repository**, not only from a download folder.
+5. Commit to your profile repository's default branch, then preview at `https://github.com/m-arslan009`.
 
-**Note:** If the old generator/workflow is not removed, it may continue to update or recreate analytic SVG files even when they are no longer referenced by the README. Delete the files from the *remote repository*, not just from your local copy. You can delete the empty `scripts/` or `.github/workflows/` directories too, if they contain no other files.
+## Privacy and accuracy
 
-## Privacy boundaries
+Removing the old feed and generator prevents *this profile README* from publishing them, but doesn't change GitHub's own contribution chart, public repositories, or profile activity. Use GitHub repository visibility/settings for those separately.
 
-- This only controls what the **README** chooses to show. GitHub controls the built-in contribution graph, profile activity, repository visibility, and public profile metadata.
-- To hide repositories themselves, change their visibility in GitHub settings where applicable. Making a repository private can affect access, forks, Pages, and collaborators.
-- To adjust contribution-related settings, review your GitHub profile settings. The README cannot switch off GitHub's built-in contribution graph.
-- The LinkedIn/email badges load icons from `shields.io`. The two portfolio illustrations are local, static SVG files and do not make network requests.
-- No GitHub Actions permissions or personal access tokens are required.
+This README includes the user's LinkedIn and email from the supplied résumé. Remove them if you prefer not to publish contact details. It describes projects and experience from that résumé, not live GitHub repository discovery. The CampusGo architecture diagram is conceptual, not a fully verified deployment map.
 
-## Customization
+## Customizing the design
 
-Edit the text in `README.md` and the static SVGs in `assets/` as desired. The layout is white/light by design, and visuals do not rely on OS-level dark-mode adaptation.
+Edit text directly in `README.md`; edit titles, colors and shapes in the `assets/*.svg` files. All SVGs use fixed white/light fills so the look remains light even when GitHub is set to dark mode. Keep SVG text as secondary to actual README content for accessibility and search.

@@ -1,106 +1,102 @@
 <div align="center">
 
-<img src="./assets/hero.svg" alt="Muhammad Arslan — Backend, Full-Stack and AI-Integrated Software Engineer" width="100%" />
+<img src="./assets/hero.svg" alt="Muhammad Arslan — backend, full-stack and AI-integrated engineering" width="100%" />
 
 <br />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1768C4?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-arslan009/)
-[![Email](https://img.shields.io/badge/Email-Say%20hello-1768C4?style=flat-square&logo=gmail&logoColor=white)](mailto:iqbalarslan009@gmail.com)
+[**LinkedIn**](https://www.linkedin.com/in/m-arslan009/) &nbsp;·&nbsp; [**Email**](mailto:iqbalarslan009@gmail.com)
 
-**Build with intention. Engineer for reliability. Keep learning.**
+**Design thoughtfully. Build reliably. Keep exploring.**
 
 </div>
 
-### `01` / About me
+---
 
-I'm **Muhammad Arslan**, a Software Engineering undergraduate at **FAST-NUCES, Lahore** (expected 2027). I build full-stack applications with a strong interest in **backend architecture, databases, secure APIs, and AI-integrated systems**.
+### `01 / THE ENGINEER`
 
-I care about what happens beyond the interface: how services communicate, how data stays consistent, how users stay secure, and how complex workflows become simpler and more dependable.
+I'm **Muhammad Arslan**, a Software Engineering undergraduate at **FAST-NUCES, Lahore** (expected 2027). My work connects **backend systems**, **full-stack products**, and **practical agentic AI**.
 
-<img src="./assets/engineering-map.svg" alt="My focus areas: frontend and product engineering, backend and data systems, and agentic AI." width="100%" />
+I focus on turning real problems into reliable services, secure data flows, and interfaces people can use. The diagrams below represent **what I build**, not live GitHub data.
 
-### `02` / Engineering toolkit
+<img src="./assets/engineering-map.svg" alt="Areas of focus: full-stack product engineering, backend and data systems, and agentic AI" width="100%" />
 
-| Domain | Technologies & practices |
-| :-- | :-- |
-| **Backend & APIs** | Python, FastAPI, Java, Spring Boot, Node.js, Express, REST APIs |
-| **Frontend** | React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS |
-| **Data & storage** | PostgreSQL / PostGIS, MongoDB, SQL Server, Firebase |
-| **AI & automation** | LangGraph, Ollama, LLM tool-calling, prompt engineering |
-| **Delivery & quality** | Git, GitHub, Docker Compose, JWT, automated testing, Playwright |
+### `02 / THE TOOLKIT`
 
-### `03` / Things I've built
+| Focus | Stack and practices |
+| :--- | :--- |
+| **API & backend** | Python · FastAPI · Java · Spring Boot · Node.js · Express · REST |
+| **Interfaces** | React · TypeScript · JavaScript · Tailwind CSS · HTML/CSS |
+| **Data systems** | PostgreSQL / PostGIS · MongoDB · SQL Server · Firebase |
+| **AI orchestration** | LangGraph · Ollama · prompt engineering · tool-call validation |
+| **Engineering quality** | JWT / RBAC · Git · Docker Compose · unit/integration tests · Playwright |
 
-> Selected project highlights from my engineering experience. These are **portfolio summaries**, not a live listing of repositories or contribution activity.
+### `03 / FEATURED BUILD — CAMPUSGO`
+
+A **student ride-coordination platform** spanning identity verification, ride and seat workflows, geospatial route matching, and AI-assisted coordination.
+
+<img src="./assets/campusgo-blueprint.svg" alt="Conceptual CampusGo architecture: React and TypeScript frontend, FastAPI service layer, data and routing services, and LangGraph agent workflows" width="100%" />
+
+**What I engineered:** layered REST APIs with FastAPI, SQLAlchemy, and Pydantic; JWT authentication and Argon2id password hashing; PostGIS/OSRM routing; and guarded LangGraph/Ollama workflows. Added durable notifications, retry/deduplication logic, migrations, and automated testing.
+
+### `04 / MORE SELECTED WORK`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**CAMPUSGO**  
-*Student ride coordination platform*
+**EVENTER**  
+<sub>EVENT MANAGEMENT · MERN</sub>
 
-Built a full-stack solution with ride matching, route support, identity verification, and AI-assisted workflows. Worked with **React, TypeScript, FastAPI, PostgreSQL/PostGIS, LangGraph, and Ollama**.
+Role-based event workflows with JWT authentication, MongoDB Atlas, and email/SMS notifications.
 
 </td>
 <td width="50%" valign="top">
 
-**EVENTER**  
-*Event management platform*
+**BOOK LINKER**  
+<sub>BOOK EXCHANGE · REACT / SPRING BOOT / FIREBASE</sub>
 
-Developed a MERN-based application for creating and managing events with **JWT authentication, role-based access control, MongoDB Atlas, and notification features**.
+Peer-to-peer book lending, donation, and access-controlled exchange workflows.
 
 </td>
 </tr>
 <tr>
 <td valign="top">
 
-**BOOK LINKER**  
-*Peer-to-peer book exchange*
+**STUDENT MANAGEMENT SYSTEM**  
+<sub>DESKTOP · .NET / C++</sub>
 
-Built a book lending and donation experience using **React, Spring Boot, and Firebase**, including role-aware workflows.
+Academic records, attendance, marks, and role-based admin/teacher/student features.
 
 </td>
 <td valign="top">
 
-**STUDENT MANAGEMENT SYSTEM**  
-*Desktop administration software*
+**FAST ELECTRICS**  
+<sub>DESKTOP · .NET / C++</sub>
 
-Developed a desktop system for attendance, academic records, and role-based access using **.NET and C++**.
+Electricity-consumption management and device-use scheduling.
 
 </td>
 </tr>
 </table>
 
-### `04` / Experience & recognition
+### `05 / THE JOURNEY`
 
-**AI-Assisted Web & Agentic AI Intern** · Arbisoft · Jul–Sep 2026  
-Worked on full-stack development, API design, authentication, testing, and AI-assisted workflows; developed and demonstrated CampusGo during the project phase.
+<img src="./assets/career-timeline.svg" alt="Career timeline: Nexum frontend internship in 2025, Arbisoft AI and full-stack internship in 2026, software engineering degree expected in 2027" width="100%" />
 
-**Frontend Developer Intern** · Nexum · Jul–Aug 2025  
-Built React applications using component-based architecture, hooks, and external API integrations.
+- **Arbisoft · AI-Assisted Web & Agentic AI Intern (Jul–Sep 2026):** Full-stack development, API design, testing, AI-assisted reviews, and the CampusGo project.
+- **Nexum · Front-End Developer Intern (Jul–Aug 2025):** React applications, hooks, asynchronous APIs, and component architecture.
+- **Recognition:** 3rd place at the **University of Central Punjab Web Hackathon**.
 
-**3rd Place — Web Hackathon** · University of Central Punjab  
-Recognized for a collaborative web solution developed under time constraints.
+### `06 / HOW I THINK`
 
-### `05` / Principles
+> **Understand the problem. Model the system. Validate the edge cases. Keep humans in control of AI-assisted behavior.**
 
-```text
-01  Understand the problem before choosing the tools.
-02  Make APIs predictable and data boundaries explicit.
-03  Treat testing, security and maintainability as features.
-04  Use AI where it adds real value and keep humans in control.
-```
-
----
+I enjoy thoughtful engineering conversations and opportunities to build useful software.
 
 <div align="center">
 
-**Have a problem worth engineering?**  
-I'm open to thoughtful conversations, feedback, and collaboration.
+[**Let's connect on LinkedIn**](https://www.linkedin.com/in/m-arslan009/) &nbsp;·&nbsp; [**Send an email**](mailto:iqbalarslan009@gmail.com)
 
-[**Connect on LinkedIn**](https://www.linkedin.com/in/m-arslan009/) · [**Send an email**](mailto:iqbalarslan009@gmail.com)
-
-<sub>Designed as a static, light-mode portfolio. No automated repository counts, activity feeds, language analytics, or tracking scripts.</sub>
+<sub>Static, light-mode portfolio · No live GitHub stats, repository inventory, contribution heatmaps, activity feeds, or automated tracking</sub>
 
 </div>
